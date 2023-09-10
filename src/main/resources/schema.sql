@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' IDENTIFIED BY '%dautu51a%' WITH GRANT OPTION;
